@@ -1,0 +1,9 @@
+{
+  "ontologies": [
+    {
+      "url": "https://raw.githubusercontent.com/nourelhoudahamoudaa/xdtesting/main/.xd-testing/ontology-network/ontology-network-imports.ttl",
+      "name": "ontology-network",
+      "userDefined": true
+    }
+  ]
+}
