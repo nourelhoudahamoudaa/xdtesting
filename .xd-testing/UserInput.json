@@ -10,7 +10,21 @@
     {
       "name": "RecordingProcess",
       "ontologyName": "ontology-network",
-      "fileName": "ontology-network/RecordingProcess/RecordingProcess.owl"
+      "fileName": "ontology-network/RecordingProcess/RecordingProcess.owl",
+      "tests": [
+        {
+          "type": "COMPETENCY_QUESTION",
+          "content": "",
+          "reasoner": "hermiT 1.4.3.456",
+          "status": "running",
+          "queryFileName": "ontology-network/RecordingProcess/queries/SPARQLQueries.txt",
+          "data": "",
+          "dataFileName": "ontology-network/RecordingProcess/datasets/CompetencyQuestions.txt",
+          "expectedResults": "",
+          "expectedResultsFileName": "ontology-network/RecordingProcess/expectedResults/ExpectedResults.txt",
+          "id": "CQ001"
+        }
+      ]
     }
   ]
 }
