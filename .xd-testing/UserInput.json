@@ -5,5 +5,12 @@
       "name": "ontology-network",
       "userDefined": true
     }
+  ],
+  "fragments": [
+    {
+      "name": "RecordingProcess",
+      "ontologyName": "ontology-network",
+      "fileName": "ontology-network/RecordingProcess/RecordingProcess.owl"
+    }
   ]
 }
